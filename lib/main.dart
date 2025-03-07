@@ -1,3 +1,9 @@
+// main.dart
+// ---------------------------------------------------------------------
+// Aquest fitxer carrega les variables d'entorn des del fitxer .env
+// i llança l'aplicació principal.
+// ---------------------------------------------------------------------
+
 import 'package:flutter/material.dart';
 
 void main() {
