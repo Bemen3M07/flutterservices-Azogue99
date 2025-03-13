@@ -9,8 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.13.5 # Afegim el paquet HTTP per poder fer requests.
-  flutter_dotenv: ^5.2.1 # Afegim el paquet flutter_dotenv per poder llegir variables d'entorn (.env).
+  http: ^0.13.5
+  provider: ^6.0.3
 
 dev_dependencies:
   flutter_test:
